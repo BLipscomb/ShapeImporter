@@ -14,7 +14,7 @@ A SketchUp plugin built in Ruby. It enables the user to import shapefiles into S
 3. Extensions -> ShapeImporter Geo-Located
 4. Select File.
 
-####Using the Non Geo-Code Option
+####Using the Non-Geo-Code Option
 1. Please make sure your shapefile's linear units are in feet or meters.
 2. Extensions -> ShapeImporter Non-Geo-Located
 3. Select File.
